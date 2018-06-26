@@ -1,0 +1,30 @@
+{
+  "name": "merefine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoreira1/merefine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smoreira1/merefine/issues"
+  },
+  "homepage": "https://github.com/smoreira1/merefine#readme",
+  "dependencies": {
+    "angular": "^1.7.2",
+    "angular-material": "^1.1.9",
+    "bootstrap": "^4.1.1",
+    "lodash": "^4.17.10",
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
